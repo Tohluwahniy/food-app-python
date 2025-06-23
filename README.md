@@ -1,6 +1,6 @@
 #  Food Order App with Python
 
-A simple food ordering system built using Python. This app allows users to browse food items, add them to a cart, and place an order. Designed as a beginner-friendly project to demonstrate basic Python skills, data handling, and UI logic (if using Tkinter or CLI).
+A simple food ordering system built using Python. This app allows users to browse food items, add them to a cart, and place an order. Designed as a beginner-friendly project to demonstrate basic Python skills, data handling.
 
 ---
 
